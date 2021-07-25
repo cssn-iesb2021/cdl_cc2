@@ -11,7 +11,11 @@ A aplicação pode ser desenvolvida em qualquer linguagem utilizando preferencia
 Os pacotes utilizados durante o projeto foram:
 
 ibm-watson
+
 ibm_cloud_sdk_core
+
 pyaudio
+
 speech_recognition
+
 tkinter
