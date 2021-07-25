@@ -26,8 +26,8 @@ import logging
 # In[2]:
 
 
-authenticator = IAMAuthenticator('ps0DnETIH6TeKm_vaoGxV32XXI-dqCEfHYDEkVx4dwK0')
-authenticator2 = IAMAuthenticator('RrfBo9s51kwg4K-sLrfrrb_OwHcQ7B-qhrXJN3FApVzU')    
+authenticator = IAMAuthenticator('')
+authenticator2 = IAMAuthenticator('')    
 service = TextToSpeechV1(authenticator=authenticator)
 speech_to_text = SpeechToTextV1(authenticator=authenticator2)
 
