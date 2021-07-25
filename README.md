@@ -1,4 +1,4 @@
-# CDL_CC2
+# GRUPO_CDL_CC2
 
 Trabalho final da disciplina que consiste em criar uma aplicação que possua interface baseada em voz.
 
